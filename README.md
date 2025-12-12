@@ -77,7 +77,7 @@ Em Atribuições:
 Excluir o grupo EXC-BitLocker-SSD-Incompativel
 
 Salve as alterações
-
+![Dispositivos não conformes por BitLocker](005.png)
 Com isso:
 
 Os dispositivos permanecem visíveis e rastreados
