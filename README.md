@@ -85,7 +85,7 @@ Os dispositivos permanecem visíveis e rastreados
 Não impactam negativamente os relatórios globais de conformidade
 
 Passo 4 – Validação nos relatórios
-
+![Dispositivos não conformes por BitLocker](006.png)
 Após a sincronização:
 
 Os dispositivos do grupo de exceção deixam de aparecer como não conformes por BitLocker
