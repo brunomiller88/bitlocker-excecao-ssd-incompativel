@@ -35,8 +35,8 @@ Dispositivos → Monitoramento → Conformidade
 Filtre os dispositivos Não conformes
 
 Analise o motivo da não conformidade:
-![Dispositivos não conformes por BitLocker](002.png)
 ![Dispositivos não conformes por BitLocker](003.png)
+![Dispositivos não conformes por BitLocker](002.png)
 BitLocker não habilitado
 
 Erros relacionados a hardware / SSD / criptografia não suportada
