@@ -24,6 +24,7 @@ Ajustar a política de conformidade para excluir apenas esse grupo
 Manter relatórios claros, auditáveis e tecnicamente honestos
 
 Passo 1 – Identificar os dispositivos não compatíveis
+![Dispositivos não conformes por BitLocker](001.png)
 
 Acesse o Microsoft Intune Admin Center
 
