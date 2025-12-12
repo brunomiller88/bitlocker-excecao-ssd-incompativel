@@ -36,6 +36,7 @@ Filtre os dispositivos Não conformes
 
 Analise o motivo da não conformidade:
 
+![Dispositivos não conformes por BitLocker](003.png)
 BitLocker não habilitado
 
 Erros relacionados a hardware / SSD / criptografia não suportada
@@ -61,6 +62,7 @@ Dispositivos com limitação de hardware (SSD incompatível) para BitLocker. Gru
 Adicione manualmente os dispositivos identificados no passo anterior
 
 ✅ Recomendação: manter a inclusão manual para evitar crescimento descontrolado do grupo.
+
 
 Passo 3 – Ajustar a política de conformidade
 
