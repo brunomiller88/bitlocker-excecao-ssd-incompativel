@@ -62,7 +62,7 @@ Dispositivos com limitação de hardware (SSD incompatível) para BitLocker. Gru
 Adicione manualmente os dispositivos identificados no passo anterior
 
 ✅ Recomendação: manter a inclusão manual para evitar crescimento descontrolado do grupo.
-
+![Dispositivos não conformes por BitLocker](004.png)
 
 Passo 3 – Ajustar a política de conformidade
 
